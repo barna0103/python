@@ -1,0 +1,8 @@
+# Python 3.11 or newer. Install with:  pip install -r requirements.txt
+#
+# Days 1 and 2 need nothing from this file (standard library only).
+
+pandas==3.1.1        # Day 3 and 5: tables, grouping, joining
+matplotlib==3.11.2   # Day 3: charts saved as PNG files
+requests==2.34.2     # Day 4: calling web APIs
+anthropic==2.8.0     # Day 5: only used if you set ANTHROPIC_API_KEY (offline mock otherwise)

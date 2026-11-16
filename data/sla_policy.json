@@ -1,0 +1,22 @@
+{
+  "description": "Support SLA targets by priority. Clock time, not business hours.",
+  "report_time": "2026-11-02 09:00:00",
+  "targets": {
+    "P1": {
+      "first_response_minutes": 15,
+      "resolution_hours": 4
+    },
+    "P2": {
+      "first_response_minutes": 60,
+      "resolution_hours": 24
+    },
+    "P3": {
+      "first_response_minutes": 240,
+      "resolution_hours": 72
+    },
+    "P4": {
+      "first_response_minutes": 480,
+      "resolution_hours": 120
+    }
+  }
+}
