@@ -65,7 +65,10 @@ def run_agent(llm, question):
             if function is None:
                 output = f"ERROR: there is no tool called {call.name}"
             else:
-                output = function(**call.arguments)        # our code runs it, not the model
+                try:
+                    output = function(**call.arguments)    # our code runs it, not the model
+                except TypeError as error:                 # the model sent the wrong inputs
+                    output = f"ERROR: wrong arguments for {call.name}: {error}"
             print(f"[step {step}] tool result:\n" + shorten(output))
             results.append(tool_result(call, output))
         messages.append({"role": "user", "content": results})

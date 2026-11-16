@@ -29,5 +29,6 @@ conn = connect()
 show(conn, "Agent leaderboard", QUERY)
 conn.close()
 
-print("\nRead it with care: Tier 2 and Escalations get the hardest tickets,")
-print("so a lower score there does not mean worse work.")
+print("\nRead it with care. Agents handle different mixes of tickets (Tier 2 takes")
+print("the escalations), and one agent is missing because he has fewer than 10")
+print("rated tickets. A ranking is a starting point for questions, not a verdict.")

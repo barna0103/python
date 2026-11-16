@@ -3,7 +3,7 @@
 
 A log line looks like this:
 
-    2026-10-14T09:12:45Z ERROR auth-service request_id=ab12cd34 customer_id=C012 latency_ms=30012 msg="Token validation failed: upstream timeout"
+    2026-10-14T09:10:57Z ERROR auth-service request_id=b81b319d customer_id=C003 latency_ms=24258 msg="Token validation failed: upstream timeout"
 """
 
 import re

@@ -84,12 +84,11 @@ class ClaudeLLM(LLM):                       # "(LLM)" = this is a kind of LLM
         import anthropic                    # imported here so the mock works without it
 
         self.client = anthropic.Anthropic()                 # reads ANTHROPIC_API_KEY itself
+        self.api_error = anthropic.APIError                 # what the client raises on failure
         self.model = model or os.environ.get("ANTHROPIC_MODEL", DEFAULT_MODEL)
         self.name = f"Claude ({self.model})"
 
     def chat(self, system, messages, tools=None):
-        import anthropic
-
         options = {"tools": tools} if tools else {}
         try:
             response = self.client.messages.create(
@@ -99,7 +98,7 @@ class ClaudeLLM(LLM):                       # "(LLM)" = this is a kind of LLM
                 messages=messages,
                 **options,
             )
-        except anthropic.APIError as error:
+        except self.api_error as error:
             raise SystemExit(
                 f"The call to the real model failed: {error}\n"
                 "Check ANTHROPIC_API_KEY and ANTHROPIC_MODEL, or run offline with LLM_MODE=mock."
