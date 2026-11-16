@@ -1,0 +1,98 @@
+[
+  {
+    "message_id": "M01",
+    "customer": "Flint Hardware",
+    "subject": "Nobody can sign in",
+    "body": "Since about 9 this morning nobody at our company can sign in. After entering the password we get 'service unavailable'. 40 people are blocked and we have a client demo at noon. Please treat this as urgent.",
+    "human_category": "Login",
+    "human_priority": "P1"
+  },
+  {
+    "message_id": "M02",
+    "customer": "Willow Books",
+    "subject": "Charged twice in October",
+    "body": "Hi, we were charged twice for October on our Pro plan: two payments of $199 on the 3rd. Could you refund one of them? No rush, but before the end of the month please.",
+    "human_category": "Billing",
+    "human_priority": "P3"
+  },
+  {
+    "message_id": "M03",
+    "customer": "Lakeside Schools",
+    "subject": "Schedule a weekly report?",
+    "body": "Is there a way to have the weekly summary report emailed to my manager automatically? I looked in the settings but could not find it.",
+    "human_category": "How-to",
+    "human_priority": "P4"
+  },
+  {
+    "message_id": "M04",
+    "customer": "Dune Analytics",
+    "subject": "Chart total does not match table",
+    "body": "The total at the bottom of the revenue chart does not match the table underneath: the chart says 12,400 and the table adds up to 13,150. Screenshots attached. It has been like this since last week's update.",
+    "human_category": "Bug",
+    "human_priority": "P3"
+  },
+  {
+    "message_id": "M05",
+    "customer": "Cedar Finance",
+    "subject": "Salesforce sync stopped",
+    "body": "Our Salesforce sync stopped bringing in new opportunities two days ago. The sales reports are now out of date and the quarterly forecast meeting is tomorrow.",
+    "human_category": "Integration",
+    "human_priority": "P2"
+  },
+  {
+    "message_id": "M06",
+    "customer": "Vista Airlines",
+    "subject": "Dashboards very slow in Frankfurt",
+    "body": "Dashboards have been taking over a minute to load for everyone in our Frankfurt office since Monday. The tool is close to unusable for our daily stand-ups.",
+    "human_category": "Performance",
+    "human_priority": "P2"
+  },
+  {
+    "message_id": "M07",
+    "customer": "Harbor Foods",
+    "subject": "Card declined, account will be downgraded",
+    "body": "I can log in fine, but the invoice page says our card was declined and that the account will be downgraded in 24 hours. We updated the card yesterday. Please stop the downgrade.",
+    "human_category": "Billing",
+    "human_priority": "P2"
+  },
+  {
+    "message_id": "M08",
+    "customer": "Granite Bank",
+    "subject": "URGENT: API returns 401 for every call",
+    "body": "Every API call from our production system has returned 401 since your maintenance last night, even with a freshly generated token. Our customer portal depends on this and is down.",
+    "human_category": "Integration",
+    "human_priority": "P1"
+  },
+  {
+    "message_id": "M09",
+    "customer": "Umber Design",
+    "subject": "Adding a teammate",
+    "body": "How do I add a new teammate and give them view-only access? Thanks!",
+    "human_category": "How-to",
+    "human_priority": "P4"
+  },
+  {
+    "message_id": "M10",
+    "customer": "Orchard Pharma",
+    "subject": "PDF export crashes",
+    "body": "Exporting to PDF crashes with 'unexpected error' every time for reports with more than 50 rows. We need to send the board pack on Friday. The Excel export still works as a workaround.",
+    "human_category": "Bug",
+    "human_priority": "P2"
+  },
+  {
+    "message_id": "M11",
+    "customer": "Pinecone Games",
+    "subject": "Two-factor code is slow",
+    "body": "The two-factor code by text message takes about ten minutes to arrive, so I often have to request it twice. I can still sign in eventually, it is just annoying.",
+    "human_category": "Login",
+    "human_priority": "P3"
+  },
+  {
+    "message_id": "M12",
+    "customer": "Kestrel Energy",
+    "subject": "Scheduled export keeps timing out",
+    "body": "The scheduled report export has been timing out about once a week. Running it again by hand usually works.",
+    "human_category": "Performance",
+    "human_priority": "P3"
+  }
+]

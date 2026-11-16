@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Everything the examples generate goes into an output/ folder. Safe to delete.
+output/
+
+# Never commit API keys.
+.env

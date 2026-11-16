@@ -1,0 +1,449 @@
+ticket_id,customer_id,agent_id,created_at,first_response_at,resolved_at,priority,category,status,escalated,csat,subject
+T0001,C032,A05,2026-09-07 07:31:53,2026-09-07 08:31:48,2026-09-07 15:24:12,P3,How-to,resolved,0,,Where can I change the date format?
+T0002,C025,A04,2026-09-07 09:44:54,2026-09-07 11:07:59,2026-09-08 21:42:10,P3,Billing,resolved,0,5,Need invoice with VAT number
+T0003,C015,A03,2026-09-07 11:00:09,2026-09-07 18:09:10,2026-09-09 05:50:59,P4,Billing,resolved,0,3,Need invoice with VAT number
+T0004,C007,A02,2026-09-07 13:34:23,2026-09-07 14:05:42,2026-09-08 19:11:07,P3,Login,resolved,0,,Account locked after too many attempts
+T0005,C005,A07,2026-09-07 15:39:41,2026-09-07 16:54:56,2026-09-09 06:37:16,P4,Bug,resolved,0,,Export to PDF cuts off last column
+T0006,C032,A07,2026-09-07 16:11:16,2026-09-07 20:36:34,2026-09-09 02:53:11,P4,Billing,resolved,0,4,Need invoice with VAT number
+T0007,C039,A04,2026-09-07 16:36:20,2026-09-07 20:44:16,2026-09-09 00:12:16,P3,How-to,resolved,0,4,How do I share a report with a client?
+T0008,C011,A04,2026-09-07 17:47:03,2026-09-07 19:17:00,2026-09-09 21:07:37,P3,Performance,resolved,0,,App is slow every morning
+T0009,C032,A06,2026-09-08 07:36:09,2026-09-08 07:58:20,2026-09-08 19:10:08,P2,Performance,resolved,1,4,Report export times out
+T0010,C020,A06,2026-09-08 08:13:28,2026-09-08 12:47:01,2026-09-10 20:07:42,P3,Login,resolved,0,2,Account locked after too many attempts
+T0011,C032,A04,2026-09-08 08:30:40,2026-09-08 10:07:04,2026-09-12 05:11:54,P4,How-to,resolved,0,3,How to schedule a weekly email report
+T0012,C010,A04,2026-09-08 09:07:21,2026-09-08 11:50:17,2026-09-09 14:34:14,P3,Billing,resolved,0,4,Plan upgrade did not apply
+T0013,C031,A04,2026-09-08 13:03:12,2026-09-08 18:20:33,2026-09-10 07:48:59,P3,Login,resolved,0,,Two-factor code never arrives
+T0014,C016,A07,2026-09-08 13:25:25,2026-09-08 14:37:03,2026-09-10 02:02:44,P3,Performance,resolved,0,3,Dashboard takes over 30 seconds to load
+T0015,C022,A01,2026-09-08 15:06:23,2026-09-08 17:19:29,2026-09-09 12:21:14,P3,How-to,resolved,0,3,How do I share a report with a client?
+T0016,C011,A02,2026-09-08 16:03:06,2026-09-08 16:29:36,2026-09-09 06:00:05,P2,How-to,resolved,0,4,How do I share a report with a client?
+T0017,C007,A01,2026-09-08 19:35:25,2026-09-08 19:58:09,2026-09-08 23:37:43,P2,Integration,resolved,0,4,Salesforce sync is missing records
+T0018,C032,A05,2026-09-08 19:55:43,2026-09-08 21:55:01,2026-09-10 11:09:08,P3,Integration,resolved,1,4,Webhook deliveries are delayed
+T0019,C003,A02,2026-09-09 07:04:55,2026-09-09 07:35:13,2026-09-09 23:56:13,P2,How-to,resolved,0,5,How to schedule a weekly email report
+T0020,C004,A01,2026-09-09 09:06:47,2026-09-10 02:48:07,2026-09-11 17:55:14,P4,Bug,resolved,0,3,Duplicate rows in weekly report
+T0021,C035,A03,2026-09-09 09:33:01,2026-09-09 13:51:22,2026-09-12 10:57:23,P4,Integration,resolved,0,4,API returns 401 with a valid token
+T0022,C036,A04,2026-09-09 09:40:16,2026-09-09 10:54:53,2026-09-09 17:11:46,P2,Integration,resolved,0,3,Slack integration stopped posting
+T0023,C002,A05,2026-09-09 10:39:24,2026-09-09 11:18:32,2026-09-10 03:05:09,P2,Integration,resolved,1,4,API returns 401 with a valid token
+T0024,C005,A01,2026-09-09 12:38:23,2026-09-09 13:24:50,2026-09-11 21:39:31,P3,Integration,resolved,0,,Salesforce sync is missing records
+T0025,C030,A03,2026-09-09 12:47:16,2026-09-09 14:21:07,2026-09-13 19:17:32,P3,How-to,resolved,0,4,How to schedule a weekly email report
+T0026,C025,A03,2026-09-09 14:07:07,2026-09-09 14:50:48,2026-09-10 22:00:14,P3,Billing,resolved,0,,Plan upgrade did not apply
+T0027,C002,A06,2026-09-09 14:19:05,2026-09-09 15:15:21,2026-09-11 08:06:42,P3,Performance,resolved,0,5,Dashboard takes over 30 seconds to load
+T0028,C001,A03,2026-09-09 14:29:30,2026-09-09 20:37:17,2026-09-10 23:23:47,P4,Billing,resolved,0,5,Charged twice this month
+T0029,C038,A06,2026-09-09 14:53:44,2026-09-09 15:04:26,2026-09-10 05:08:30,P2,Billing,resolved,0,,Charged twice this month
+T0030,C030,A02,2026-09-10 07:48:33,2026-09-10 09:16:06,2026-09-14 08:54:35,P3,Bug,resolved,0,,Filters reset when I change page
+T0031,C007,A03,2026-09-10 08:44:54,2026-09-10 10:01:03,2026-09-13 16:32:19,P3,Bug,resolved,0,5,Chart shows wrong totals
+T0032,C007,A02,2026-09-10 09:22:49,2026-09-10 12:36:54,2026-09-24 12:44:42,P4,Bug,resolved,0,,Export to PDF cuts off last column
+T0033,C024,A03,2026-09-10 10:34:34,2026-09-10 11:14:57,2026-09-10 18:56:02,P2,Performance,resolved,0,4,Dashboard takes over 30 seconds to load
+T0034,C010,A06,2026-09-10 11:33:23,2026-09-10 11:56:18,2026-09-10 12:20:18,P1,Performance,resolved,1,,Report export times out
+T0035,C018,A02,2026-09-10 11:41:55,2026-09-10 16:22:27,2026-09-17 02:34:06,P3,Bug,resolved,0,,Duplicate rows in weekly report
+T0036,C025,A04,2026-09-10 15:23:09,2026-09-10 18:07:16,2026-09-11 18:15:48,P3,Bug,resolved,0,4,Chart shows wrong totals
+T0037,C024,A02,2026-09-10 18:34:58,2026-09-10 22:36:31,2026-09-11 22:21:28,P3,Performance,resolved,0,4,Dashboard takes over 30 seconds to load
+T0038,C021,A07,2026-09-11 07:01:50,2026-09-11 11:36:01,2026-09-15 03:36:31,P4,How-to,resolved,0,5,Where can I change the date format?
+T0039,C003,A02,2026-09-11 10:12:33,2026-09-11 15:01:00,2026-09-13 05:59:24,P3,Billing,resolved,0,,Charged twice this month
+T0040,C038,A03,2026-09-11 10:44:38,2026-09-11 12:03:30,2026-09-11 22:56:49,P2,Bug,resolved,0,,Chart shows wrong totals
+T0041,C032,A04,2026-09-11 11:30:16,2026-09-11 14:56:15,2026-09-14 10:48:29,P3,How-to,resolved,0,,Where can I change the date format?
+T0042,C040,A06,2026-09-11 12:28:51,2026-09-11 15:21:47,2026-09-13 09:12:42,P4,How-to,resolved,0,4,Where can I change the date format?
+T0043,C004,A06,2026-09-11 12:40:14,2026-09-11 14:58:44,2026-09-13 16:27:25,P3,Bug,resolved,0,5,Export to PDF cuts off last column
+T0044,C005,A03,2026-09-11 13:47:51,2026-09-11 15:37:23,2026-09-14 10:36:19,P3,Billing,resolved,0,4,Refund request for unused seats
+T0045,C030,A02,2026-09-11 14:22:46,2026-09-11 17:35:08,2026-09-12 20:13:58,P4,Bug,resolved,0,,Chart shows wrong totals
+T0046,C011,A04,2026-09-11 16:51:50,2026-09-11 17:49:12,2026-09-14 06:01:51,P3,Billing,resolved,0,4,Charged twice this month
+T0047,C038,A04,2026-09-11 19:15:52,2026-09-11 22:23:17,2026-09-13 08:05:17,P3,Login,resolved,0,,Cannot log in after password reset
+T0048,C015,A01,2026-09-11 19:54:12,2026-09-11 22:56:48,2026-09-14 23:10:36,P3,Integration,resolved,0,,Webhook deliveries are delayed
+T0049,C013,A07,2026-09-12 12:06:14,2026-09-12 16:03:23,2026-09-13 08:45:21,P3,How-to,resolved,0,4,Where can I change the date format?
+T0050,C031,A04,2026-09-12 12:30:39,2026-09-12 14:49:18,2026-09-14 20:57:10,P3,Login,resolved,0,,Account locked after too many attempts
+T0051,C025,A05,2026-09-12 14:23:05,2026-09-12 15:42:02,2026-09-14 20:32:02,P4,How-to,resolved,0,4,How do I share a report with a client?
+T0052,C005,A07,2026-09-12 16:12:21,2026-09-12 16:28:31,2026-09-12 17:42:01,P1,Integration,resolved,1,3,Salesforce sync is missing records
+T0053,C035,A02,2026-09-13 09:30:58,2026-09-13 12:07:09,2026-09-15 18:39:00,P3,Bug,resolved,0,4,Chart shows wrong totals
+T0054,C017,A01,2026-09-13 10:53:42,2026-09-13 17:27:01,2026-09-14 23:22:16,P3,Login,resolved,0,4,SSO login loops back to sign-in page
+T0055,C013,A03,2026-09-13 10:58:24,2026-09-13 15:20:35,2026-09-17 12:42:40,P3,Bug,resolved,0,,Export to PDF cuts off last column
+T0056,C029,A04,2026-09-13 14:51:41,2026-09-14 02:07:59,2026-09-17 00:45:11,P4,Bug,resolved,0,,Filters reset when I change page
+T0057,C014,A04,2026-09-14 09:01:09,2026-09-14 11:44:28,2026-09-17 03:40:40,P3,Integration,resolved,0,5,Webhook deliveries are delayed
+T0058,C031,A02,2026-09-14 12:05:51,2026-09-14 13:50:59,2026-09-17 08:29:59,P3,Bug,resolved,0,,Filters reset when I change page
+T0059,C014,A03,2026-09-14 13:47:05,2026-09-14 17:26:18,2026-09-18 15:47:12,P4,Bug,resolved,0,4,Duplicate rows in weekly report
+T0060,C032,A02,2026-09-14 13:50:40,2026-09-14 13:57:18,2026-09-14 15:40:11,P1,Integration,resolved,0,,Salesforce sync is missing records
+T0061,C029,A04,2026-09-14 14:56:11,2026-09-14 17:11:19,2026-09-15 16:27:55,P3,Integration,resolved,0,5,Slack integration stopped posting
+T0062,C021,A02,2026-09-14 16:57:29,2026-09-14 18:10:32,2026-09-16 01:21:46,P2,Performance,resolved,0,4,Report export times out
+T0063,C013,A01,2026-09-14 18:10:10,2026-09-14 20:15:29,2026-09-16 00:29:57,P3,Bug,resolved,0,5,Export to PDF cuts off last column
+T0064,C021,A08,2026-09-14 18:25:29,2026-09-14 18:34:43,2026-09-14 22:40:34,P1,Login,resolved,1,,Account locked after too many attempts
+T0065,C032,A01,2026-09-15 07:51:46,2026-09-15 09:16:09,2026-09-16 01:15:11,P3,Integration,resolved,0,,Slack integration stopped posting
+T0066,C025,A05,2026-09-15 12:09:35,2026-09-15 13:03:39,2026-09-17 18:15:04,P3,Integration,resolved,0,,Slack integration stopped posting
+T0067,C011,A04,2026-09-15 13:55:12,2026-09-15 14:03:54,2026-09-15 21:29:59,P2,Login,resolved,0,5,Two-factor code never arrives
+T0068,C038,A02,2026-09-15 14:42:59,2026-09-15 17:40:35,2026-09-16 21:07:12,P3,How-to,resolved,0,5,How do I add a teammate?
+T0069,C032,A01,2026-09-15 15:08:01,2026-09-15 19:21:29,2026-09-16 23:02:38,P4,Integration,resolved,0,,Webhook deliveries are delayed
+T0070,C018,A02,2026-09-15 16:52:38,2026-09-15 18:35:29,2026-09-17 01:19:48,P4,Performance,resolved,0,5,Report export times out
+T0071,C011,A07,2026-09-15 17:06:33,2026-09-15 18:24:46,2026-09-17 08:07:51,P3,Login,resolved,0,5,Two-factor code never arrives
+T0072,C035,A04,2026-09-15 18:59:08,2026-09-15 21:21:10,2026-09-17 06:43:28,P3,How-to,resolved,0,5,How do I add a teammate?
+T0073,C029,A03,2026-09-16 07:16:13,2026-09-16 10:06:19,2026-09-19 02:42:38,P4,Billing,resolved,0,4,Charged twice this month
+T0074,C018,A05,2026-09-16 09:03:58,2026-09-16 09:19:12,2026-09-17 22:37:36,P2,Integration,resolved,1,,Salesforce sync is missing records
+T0075,C035,A01,2026-09-16 11:32:15,2026-09-16 13:00:11,2026-09-25 21:14:21,P4,How-to,resolved,0,,How to schedule a weekly email report
+T0076,C021,A04,2026-09-16 11:34:26,2026-09-16 13:04:43,2026-09-22 14:42:43,P4,How-to,resolved,0,3,Where can I change the date format?
+T0077,C022,A04,2026-09-16 14:42:37,2026-09-16 14:52:56,2026-09-16 16:29:26,P1,Integration,resolved,0,4,API returns 401 with a valid token
+T0078,C035,A07,2026-09-16 15:26:52,2026-09-16 15:49:32,2026-09-17 10:59:16,P2,Billing,resolved,0,5,Refund request for unused seats
+T0079,C032,A03,2026-09-16 18:22:57,2026-09-16 18:28:15,2026-09-17 11:55:44,P2,Login,resolved,0,,SSO login loops back to sign-in page
+T0080,C029,A04,2026-09-16 19:37:20,2026-09-16 20:12:06,2026-09-18 05:15:04,P2,Login,resolved,0,,Account locked after too many attempts
+T0081,C007,A06,2026-09-17 07:20:43,2026-09-17 12:35:45,2026-09-20 09:40:48,P4,How-to,resolved,0,5,How do I add a teammate?
+T0082,C011,A02,2026-09-17 08:56:35,2026-09-17 09:33:37,2026-09-18 09:21:14,P3,Performance,resolved,0,4,App is slow every morning
+T0083,C002,A01,2026-09-17 09:30:39,2026-09-17 16:04:40,2026-09-18 14:48:20,P4,Login,resolved,0,,Account locked after too many attempts
+T0084,C011,A03,2026-09-17 09:34:09,2026-09-17 10:44:13,2026-09-19 09:18:45,P3,Bug,resolved,0,5,Chart shows wrong totals
+T0085,C023,A02,2026-09-17 14:49:11,2026-09-17 18:23:26,2026-09-22 03:55:11,P3,Integration,resolved,0,,Salesforce sync is missing records
+T0086,C009,A04,2026-09-17 14:50:49,2026-09-17 18:49:44,2026-09-18 20:48:36,P3,How-to,resolved,0,,Where can I change the date format?
+T0087,C017,A04,2026-09-17 15:32:01,2026-09-17 15:57:14,2026-09-18 07:21:18,P2,Integration,resolved,0,5,Salesforce sync is missing records
+T0088,C040,A01,2026-09-17 15:33:35,2026-09-17 18:57:19,2026-09-22 05:25:19,P4,How-to,resolved,0,,How do I add a teammate?
+T0089,C030,A02,2026-09-17 16:00:49,2026-09-17 18:00:16,2026-09-18 23:43:52,P3,How-to,resolved,0,4,How to schedule a weekly email report
+T0090,C031,A04,2026-09-17 18:07:35,2026-09-18 01:16:12,2026-09-18 21:36:54,P3,Integration,resolved,0,,Webhook deliveries are delayed
+T0091,C001,A01,2026-09-17 19:09:11,2026-09-18 01:07:00,2026-09-19 22:16:04,P4,How-to,resolved,0,,How do I add a teammate?
+T0092,C015,A04,2026-09-18 07:48:57,2026-09-18 08:30:07,2026-09-20 05:33:05,P3,Integration,resolved,0,3,Salesforce sync is missing records
+T0093,C016,A02,2026-09-18 07:49:06,2026-09-18 09:54:48,2026-09-19 05:01:21,P3,Performance,resolved,0,,Report export times out
+T0094,C039,A06,2026-09-18 08:28:20,2026-09-18 15:26:15,2026-09-19 03:52:25,P3,Bug,resolved,0,3,Filters reset when I change page
+T0095,C005,A01,2026-09-18 10:12:17,2026-09-18 13:07:33,2026-09-21 00:00:05,P3,Integration,resolved,0,,Webhook deliveries are delayed
+T0096,C024,A01,2026-09-18 15:12:44,2026-09-19 00:28:22,2026-09-23 06:49:30,P4,Performance,resolved,0,3,App is slow every morning
+T0097,C020,A05,2026-09-18 15:28:35,2026-09-18 17:58:55,2026-09-19 15:28:56,P3,Bug,resolved,0,4,Export to PDF cuts off last column
+T0098,C038,A07,2026-09-18 16:32:38,2026-09-18 17:42:10,2026-09-20 01:05:18,P3,Bug,resolved,0,5,Duplicate rows in weekly report
+T0099,C002,A04,2026-09-19 16:32:15,2026-09-19 17:53:45,2026-09-22 10:12:42,P3,Billing,resolved,0,,Charged twice this month
+T0100,C004,A07,2026-09-19 16:32:34,2026-09-19 20:20:14,2026-09-21 05:01:46,P4,How-to,resolved,1,5,How to schedule a weekly email report
+T0101,C015,A02,2026-09-19 17:56:56,2026-09-19 20:49:30,2026-09-21 22:55:55,P4,Performance,resolved,0,4,Report export times out
+T0102,C032,A02,2026-09-20 10:25:28,2026-09-20 10:31:10,2026-09-20 16:41:14,P2,Billing,resolved,0,5,Need invoice with VAT number
+T0103,C011,A04,2026-09-20 16:08:26,2026-09-20 17:45:03,2026-09-22 05:24:29,P3,Performance,resolved,0,4,App is slow every morning
+T0104,C024,A07,2026-09-20 17:57:12,2026-09-20 23:20:08,2026-10-02 21:35:11,P4,Billing,resolved,0,4,Charged twice this month
+T0105,C014,A07,2026-09-21 08:25:56,2026-09-21 09:13:42,2026-09-23 14:26:13,P2,Performance,resolved,1,3,Dashboard takes over 30 seconds to load
+T0106,C017,A04,2026-09-21 08:42:15,2026-09-21 15:27:28,2026-09-26 08:24:58,P4,Performance,resolved,0,5,Report export times out
+T0107,C033,A02,2026-09-21 08:57:49,2026-09-21 10:36:09,2026-09-23 07:13:41,P3,Performance,resolved,0,5,Dashboard takes over 30 seconds to load
+T0108,C029,A03,2026-09-21 09:45:41,2026-09-21 11:30:18,2026-09-23 01:10:03,P3,Bug,resolved,0,,Export to PDF cuts off last column
+T0109,C005,A03,2026-09-21 11:56:08,2026-09-21 23:05:41,2026-09-24 21:20:00,P4,How-to,resolved,0,,How do I share a report with a client?
+T0110,C004,A04,2026-09-21 13:04:13,2026-09-21 14:47:16,2026-09-25 11:02:04,P3,How-to,resolved,0,3,How to schedule a weekly email report
+T0111,C026,A02,2026-09-21 14:14:47,2026-09-21 20:33:42,2026-09-24 13:44:03,P4,Billing,resolved,0,5,Need invoice with VAT number
+T0112,C015,A07,2026-09-21 17:19:50,2026-09-21 17:27:07,2026-09-22 06:09:01,P2,Performance,resolved,0,5,Report export times out
+T0113,C037,A02,2026-09-21 17:23:09,2026-09-21 18:45:42,2026-09-22 07:52:37,P3,Performance,resolved,0,,App is slow every morning
+T0114,C007,A06,2026-09-22 09:42:53,2026-09-22 14:25:02,2026-09-24 07:25:32,P4,Integration,resolved,0,5,Webhook deliveries are delayed
+T0115,C038,A03,2026-09-22 10:10:45,2026-09-22 11:31:38,2026-09-23 01:26:31,P3,Billing,resolved,0,,Plan upgrade did not apply
+T0116,C022,A03,2026-09-22 12:20:05,2026-09-22 13:50:53,2026-09-23 17:22:32,P3,Login,resolved,0,,Account locked after too many attempts
+T0117,C004,A02,2026-09-22 12:26:12,2026-09-22 13:20:25,2026-09-22 17:26:56,P2,How-to,resolved,0,5,How do I add a teammate?
+T0118,C029,A01,2026-09-22 12:35:29,2026-09-22 13:47:05,2026-09-24 07:56:17,P3,Performance,resolved,0,5,Report export times out
+T0119,C040,A07,2026-09-22 13:21:33,2026-09-22 13:29:42,2026-09-22 14:38:03,P1,Performance,resolved,0,3,Dashboard takes over 30 seconds to load
+T0120,C007,A08,2026-09-22 13:32:25,2026-09-22 16:44:27,2026-09-23 13:32:37,P3,Bug,resolved,1,,Chart shows wrong totals
+T0121,C031,A02,2026-09-22 14:45:01,2026-09-22 17:00:29,2026-09-23 19:29:28,P3,Bug,resolved,0,5,Chart shows wrong totals
+T0122,C026,A01,2026-09-22 16:18:32,2026-09-22 19:36:25,2026-09-24 12:13:16,P3,Bug,resolved,0,,Filters reset when I change page
+T0123,C003,A01,2026-09-22 18:23:01,2026-09-23 01:34:05,2026-09-24 13:28:14,P4,How-to,resolved,0,,Where can I change the date format?
+T0124,C011,A04,2026-09-23 07:57:49,2026-09-23 12:07:35,2026-09-26 12:58:35,P4,How-to,resolved,0,5,How to schedule a weekly email report
+T0125,C011,A01,2026-09-23 08:16:17,2026-09-23 08:45:17,2026-09-24 09:37:17,P2,Integration,resolved,0,,Slack integration stopped posting
+T0126,C035,A01,2026-09-23 08:58:50,2026-09-23 13:33:13,2026-09-26 03:26:59,P4,Bug,resolved,0,4,Chart shows wrong totals
+T0127,C039,A03,2026-09-23 09:17:48,2026-09-23 11:03:30,2026-09-24 19:34:02,P3,Billing,resolved,0,4,Charged twice this month
+T0128,C007,A01,2026-09-23 09:52:27,2026-09-23 10:45:05,2026-09-24 07:34:14,P2,Integration,resolved,0,,Salesforce sync is missing records
+T0129,C006,A01,2026-09-23 10:56:06,2026-09-23 14:59:51,2026-09-25 07:58:02,P3,Performance,resolved,0,4,Report export times out
+T0130,C015,A06,2026-09-23 17:52:16,2026-09-23 18:03:52,2026-09-24 00:06:58,P2,How-to,resolved,0,4,How do I add a teammate?
+T0131,C028,A04,2026-09-24 08:17:01,2026-09-24 14:31:18,2026-09-25 03:11:55,P4,How-to,resolved,0,,How do I share a report with a client?
+T0132,C028,A03,2026-09-24 08:29:00,2026-09-24 10:50:44,2026-09-25 15:33:58,P3,Bug,resolved,0,,Chart shows wrong totals
+T0133,C015,A02,2026-09-24 09:34:58,2026-09-24 13:39:31,2026-09-26 01:23:39,P4,Bug,resolved,0,,Filters reset when I change page
+T0134,C002,A02,2026-09-24 10:04:16,2026-09-24 16:58:44,2026-09-27 21:36:27,P4,Bug,resolved,0,,Export to PDF cuts off last column
+T0135,C014,A04,2026-09-24 11:03:51,2026-09-24 14:11:15,2026-09-26 22:05:39,P4,How-to,resolved,0,5,How to schedule a weekly email report
+T0136,C040,A03,2026-09-24 11:05:38,2026-09-24 12:57:53,2026-09-26 07:25:58,P3,Billing,resolved,0,4,Refund request for unused seats
+T0137,C008,A02,2026-09-24 15:36:31,2026-09-24 16:45:14,2026-09-25 13:10:55,P3,Integration,resolved,0,4,API returns 401 with a valid token
+T0138,C007,A05,2026-09-24 17:05:51,2026-09-24 18:28:27,2026-09-29 18:38:37,P4,Billing,resolved,0,,Need invoice with VAT number
+T0139,C038,A07,2026-09-24 18:11:27,2026-09-24 18:28:29,2026-09-25 00:07:46,P2,Bug,resolved,1,5,Filters reset when I change page
+T0140,C030,A04,2026-09-24 18:20:05,2026-09-24 21:24:26,2026-09-27 15:45:28,P3,How-to,resolved,0,,Where can I change the date format?
+T0141,C002,A03,2026-09-25 07:33:45,2026-09-25 09:49:09,2026-09-26 16:27:21,P3,Performance,resolved,0,4,Report export times out
+T0142,C019,A01,2026-09-25 10:07:10,2026-09-25 12:32:24,2026-09-27 03:33:48,P3,Login,resolved,0,,Account locked after too many attempts
+T0143,C031,A02,2026-09-25 10:59:19,2026-09-25 12:51:59,2026-09-26 02:02:40,P4,Performance,resolved,0,,Dashboard takes over 30 seconds to load
+T0144,C034,A04,2026-09-25 11:03:11,2026-09-25 14:49:28,2026-09-27 04:30:43,P4,How-to,resolved,0,4,How do I share a report with a client?
+T0145,C015,A02,2026-09-25 11:39:08,2026-09-25 11:50:32,2026-09-25 15:56:01,P2,Integration,resolved,0,5,Slack integration stopped posting
+T0146,C011,A03,2026-09-25 14:32:43,2026-09-25 16:31:04,2026-09-27 09:57:30,P3,Performance,resolved,0,,Report export times out
+T0147,C007,A01,2026-09-25 15:26:59,2026-09-25 15:47:55,2026-09-25 19:28:02,P2,Performance,resolved,0,,Dashboard takes over 30 seconds to load
+T0148,C010,A04,2026-09-25 17:19:33,2026-09-25 21:30:51,2026-09-26 05:41:07,P3,Integration,resolved,0,,Webhook deliveries are delayed
+T0149,C040,A05,2026-09-25 19:13:18,2026-09-25 19:25:55,2026-09-26 03:01:35,P2,Login,resolved,1,5,Cannot log in after password reset
+T0150,C035,A03,2026-09-26 09:16:02,2026-09-26 10:22:37,2026-09-27 00:11:38,P2,Login,resolved,0,,Account locked after too many attempts
+T0151,C038,A07,2026-09-26 13:22:51,2026-09-26 19:29:11,2026-09-28 05:50:08,P4,Login,resolved,0,5,SSO login loops back to sign-in page
+T0152,C012,A06,2026-09-27 09:46:32,2026-09-27 09:59:47,2026-09-27 11:38:29,P1,Performance,resolved,1,3,Report export times out
+T0153,C016,A05,2026-09-27 17:12:32,2026-09-27 18:11:59,2026-09-28 09:18:26,P2,Performance,resolved,0,4,App is slow every morning
+T0154,C029,A02,2026-09-28 07:53:08,2026-09-28 10:07:09,2026-10-02 00:25:27,P3,Performance,resolved,0,,App is slow every morning
+T0155,C031,A02,2026-09-28 08:42:52,2026-09-28 10:27:36,2026-09-30 19:11:09,P3,Integration,resolved,0,,Slack integration stopped posting
+T0156,C030,A02,2026-09-28 09:25:22,2026-09-28 14:01:03,2026-09-30 07:21:41,P4,Billing,resolved,0,4,Plan upgrade did not apply
+T0157,C032,A04,2026-09-28 10:59:28,2026-09-28 15:34:31,2026-10-01 16:46:54,P3,Billing,resolved,0,3,Refund request for unused seats
+T0158,C005,A07,2026-09-28 12:12:53,2026-09-28 14:37:27,2026-09-30 10:33:24,P4,Performance,resolved,0,5,App is slow every morning
+T0159,C032,A01,2026-09-28 13:32:19,2026-09-28 14:44:27,2026-09-29 14:24:49,P3,How-to,resolved,0,5,How to schedule a weekly email report
+T0160,C023,A05,2026-09-28 14:34:53,2026-09-28 16:51:12,2026-09-30 00:49:15,P3,Performance,resolved,0,5,Report export times out
+T0161,C031,A02,2026-09-28 17:27:42,2026-09-28 20:36:36,2026-10-02 20:53:21,P3,Bug,resolved,0,2,Chart shows wrong totals
+T0162,C008,A01,2026-09-28 18:13:14,2026-09-28 19:28:19,2026-09-30 06:02:50,P3,Integration,resolved,0,4,API returns 401 with a valid token
+T0163,C022,A01,2026-09-28 18:46:40,2026-09-28 20:07:56,2026-10-02 08:54:37,P3,Integration,resolved,0,,Webhook deliveries are delayed
+T0164,C029,A05,2026-09-29 07:05:42,2026-09-29 07:10:04,2026-09-29 08:50:20,P1,Performance,resolved,1,5,App is slow every morning
+T0165,C033,A02,2026-09-29 07:29:11,2026-09-29 10:50:05,2026-09-30 15:16:00,P3,Billing,resolved,0,5,Need invoice with VAT number
+T0166,C008,A04,2026-09-29 08:40:47,2026-09-29 09:14:32,2026-09-29 17:39:14,P2,Integration,resolved,0,,API returns 401 with a valid token
+T0167,C014,A02,2026-09-29 10:44:18,2026-09-29 14:20:39,2026-10-01 05:01:26,P3,Billing,resolved,0,5,Refund request for unused seats
+T0168,C035,A02,2026-09-29 11:27:10,2026-09-29 11:49:21,2026-09-30 03:42:09,P2,Bug,resolved,0,4,Filters reset when I change page
+T0169,C018,A03,2026-09-29 13:55:32,2026-09-29 14:41:12,2026-09-30 08:02:20,P2,Bug,resolved,0,,Chart shows wrong totals
+T0170,C021,A03,2026-09-29 17:18:38,2026-09-29 21:51:01,2026-10-01 15:04:15,P4,Billing,resolved,0,,Need invoice with VAT number
+T0171,C018,A06,2026-09-30 07:21:24,2026-09-30 09:46:58,2026-10-03 10:50:37,P4,Bug,resolved,0,5,Export to PDF cuts off last column
+T0172,C032,A05,2026-09-30 07:56:19,2026-09-30 09:14:06,2026-10-01 04:06:05,P3,Integration,resolved,0,,Slack integration stopped posting
+T0173,C018,A01,2026-09-30 08:30:17,2026-09-30 10:10:01,2026-10-01 04:34:57,P3,How-to,resolved,0,4,Where can I change the date format?
+T0174,C013,A03,2026-09-30 10:22:11,2026-09-30 11:36:02,2026-10-06 07:31:22,P3,Performance,resolved,0,2,Dashboard takes over 30 seconds to load
+T0175,C015,A06,2026-09-30 11:23:21,2026-09-30 12:20:26,2026-10-02 01:45:35,P3,Integration,resolved,0,,Slack integration stopped posting
+T0176,C029,A07,2026-09-30 11:28:00,2026-09-30 14:47:48,2026-10-02 01:20:28,P3,Bug,resolved,0,,Chart shows wrong totals
+T0177,C017,A01,2026-09-30 15:20:15,2026-09-30 16:46:12,2026-10-05 01:48:08,P3,How-to,resolved,0,,How to schedule a weekly email report
+T0178,C006,A03,2026-09-30 15:41:12,2026-09-30 18:12:14,2026-10-02 10:34:02,P3,Bug,resolved,0,3,Chart shows wrong totals
+T0179,C009,A02,2026-10-01 07:19:19,2026-10-01 09:16:25,2026-10-02 11:25:11,P2,Login,resolved,0,2,SSO login loops back to sign-in page
+T0180,C017,A01,2026-10-01 08:09:25,2026-10-01 08:57:14,2026-10-02 03:10:50,P3,Bug,resolved,0,,Chart shows wrong totals
+T0181,C004,A02,2026-10-01 08:16:52,2026-10-01 09:05:50,2026-10-02 06:46:50,P2,Performance,resolved,0,5,Dashboard takes over 30 seconds to load
+T0182,C038,A02,2026-10-01 15:49:00,2026-10-01 18:56:04,2026-10-03 08:01:32,P3,Performance,resolved,0,5,Dashboard takes over 30 seconds to load
+T0183,C040,A07,2026-10-01 16:02:25,2026-10-01 17:39:15,2026-10-03 21:52:52,P4,Integration,resolved,0,5,Webhook deliveries are delayed
+T0184,C015,A03,2026-10-01 16:33:54,2026-10-01 19:01:57,2026-10-03 06:44:58,P3,Performance,resolved,0,,Report export times out
+T0185,C030,A03,2026-10-01 17:14:05,2026-10-01 20:14:28,2026-10-07 00:04:27,P4,How-to,resolved,0,,How to schedule a weekly email report
+T0186,C033,A04,2026-10-01 19:09:42,2026-10-02 00:39:05,2026-10-03 00:04:58,P3,Billing,resolved,0,4,Need invoice with VAT number
+T0187,C032,A02,2026-10-02 09:58:33,2026-10-02 11:33:27,2026-10-03 17:27:19,P3,Performance,resolved,0,5,Report export times out
+T0188,C017,A01,2026-10-02 11:46:39,2026-10-02 11:51:15,2026-10-02 15:03:58,P1,Bug,resolved,0,4,Filters reset when I change page
+T0189,C035,A04,2026-10-02 13:48:20,2026-10-02 15:08:18,2026-10-07 14:36:48,P3,Performance,resolved,0,3,Dashboard takes over 30 seconds to load
+T0190,C035,A01,2026-10-02 17:09:02,2026-10-02 20:00:28,2026-10-04 03:32:33,P4,How-to,resolved,0,,How to schedule a weekly email report
+T0191,C029,A04,2026-10-02 17:27:46,2026-10-02 21:18:50,2026-10-06 06:06:15,P4,How-to,resolved,0,,How to schedule a weekly email report
+T0192,C032,A04,2026-10-02 17:37:51,2026-10-02 20:04:57,2026-10-04 00:57:52,P3,Login,resolved,0,4,Account locked after too many attempts
+T0193,C038,A08,2026-10-02 18:31:09,2026-10-02 19:10:22,2026-10-03 08:58:22,P2,Integration,resolved,1,5,Slack integration stopped posting
+T0194,C040,A02,2026-10-02 18:51:32,2026-10-02 20:47:53,2026-10-05 01:00:04,P4,Performance,resolved,0,3,Report export times out
+T0195,C035,A04,2026-10-02 18:57:32,2026-10-02 20:58:53,2026-10-05 08:03:25,P4,Bug,resolved,0,,Filters reset when I change page
+T0196,C019,A04,2026-10-02 19:01:52,2026-10-02 23:26:26,2026-10-04 03:38:04,P4,Login,resolved,0,,Account locked after too many attempts
+T0197,C013,A02,2026-10-02 19:32:36,2026-10-02 21:42:33,2026-10-06 14:15:39,P4,Performance,resolved,0,,App is slow every morning
+T0198,C035,A06,2026-10-03 09:08:40,2026-10-03 14:25:34,2026-10-03 19:54:45,P3,Login,resolved,0,3,Account locked after too many attempts
+T0199,C038,A04,2026-10-03 12:05:01,2026-10-03 14:16:58,2026-10-10 06:56:52,P3,How-to,resolved,0,,How do I add a teammate?
+T0200,C035,A02,2026-10-03 14:06:24,2026-10-03 15:05:49,2026-10-04 02:19:24,P3,Login,resolved,0,4,Cannot log in after password reset
+T0201,C020,A01,2026-10-03 16:35:03,2026-10-03 23:28:32,2026-10-09 14:53:34,P4,Integration,resolved,0,,Webhook deliveries are delayed
+T0202,C024,A07,2026-10-04 09:29:51,2026-10-04 11:06:59,2026-10-07 16:22:08,P3,Bug,resolved,0,2,Export to PDF cuts off last column
+T0203,C032,A01,2026-10-04 09:40:34,2026-10-04 09:50:22,2026-10-04 12:16:18,P1,Performance,resolved,0,5,App is slow every morning
+T0204,C011,A01,2026-10-04 10:47:59,2026-10-04 12:28:00,2026-10-06 19:04:59,P3,Bug,resolved,0,4,Filters reset when I change page
+T0205,C008,A01,2026-10-04 12:31:16,2026-10-04 16:21:36,2026-10-05 20:02:25,P3,How-to,resolved,0,,Where can I change the date format?
+T0206,C038,A01,2026-10-05 07:39:40,2026-10-05 13:52:00,2026-10-13 15:49:13,P4,Performance,resolved,0,3,Dashboard takes over 30 seconds to load
+T0207,C029,A03,2026-10-05 08:30:58,2026-10-05 13:38:02,2026-10-07 18:30:39,P3,Bug,resolved,0,,Export to PDF cuts off last column
+T0208,C038,A02,2026-10-05 11:15:46,2026-10-05 12:30:40,2026-10-08 16:36:02,P3,Integration,resolved,0,4,Slack integration stopped posting
+T0209,C014,A06,2026-10-05 14:54:24,2026-10-05 15:14:02,2026-10-06 03:23:24,P2,Performance,resolved,1,5,App is slow every morning
+T0210,C004,A02,2026-10-05 15:04:47,2026-10-05 19:48:04,2026-10-06 16:13:50,P3,Performance,resolved,0,,Dashboard takes over 30 seconds to load
+T0211,C038,A01,2026-10-05 15:05:42,2026-10-05 17:08:05,2026-10-07 08:08:26,P3,Integration,resolved,0,4,Webhook deliveries are delayed
+T0212,C002,A01,2026-10-05 17:18:49,2026-10-05 20:06:30,2026-10-07 14:06:59,P3,Integration,resolved,0,5,Slack integration stopped posting
+T0213,C005,A07,2026-10-05 18:30:16,2026-10-05 18:58:50,2026-10-06 11:56:43,P2,Bug,resolved,0,,Export to PDF cuts off last column
+T0214,C029,A02,2026-10-05 18:41:29,2026-10-05 20:30:07,2026-10-07 10:08:48,P3,Billing,resolved,0,4,Refund request for unused seats
+T0215,C022,A06,2026-10-05 19:04:54,2026-10-05 20:35:31,2026-10-07 17:01:14,P3,How-to,resolved,0,5,How do I share a report with a client?
+T0216,C039,A01,2026-10-05 19:13:14,2026-10-05 23:02:14,2026-10-07 22:13:51,P3,How-to,resolved,0,,How to schedule a weekly email report
+T0217,C022,A02,2026-10-06 07:30:03,2026-10-06 13:29:08,2026-10-09 19:05:57,P4,How-to,resolved,0,4,How do I share a report with a client?
+T0218,C032,A01,2026-10-06 08:38:09,2026-10-06 12:13:58,2026-10-08 06:04:26,P3,How-to,resolved,0,,How do I share a report with a client?
+T0219,C033,A02,2026-10-06 08:44:13,2026-10-06 10:18:28,2026-10-07 09:58:45,P3,How-to,resolved,0,5,Where can I change the date format?
+T0220,C028,A05,2026-10-06 12:16:41,2026-10-06 15:48:16,2026-10-11 18:57:19,P3,Bug,resolved,0,,Duplicate rows in weekly report
+T0221,C002,A01,2026-10-06 14:17:43,2026-10-06 18:05:57,2026-10-08 14:27:53,P4,How-to,resolved,0,5,How do I add a teammate?
+T0222,C005,A03,2026-10-06 16:36:08,2026-10-06 19:49:48,2026-10-09 04:20:10,P4,Bug,resolved,0,5,Duplicate rows in weekly report
+T0223,C015,A02,2026-10-06 17:31:18,2026-10-06 18:10:24,2026-10-07 10:01:52,P2,Login,resolved,0,4,Cannot log in after password reset
+T0224,C002,A01,2026-10-06 18:44:19,2026-10-06 22:45:53,2026-10-10 14:07:36,P3,How-to,resolved,0,,How do I add a teammate?
+T0225,C018,A01,2026-10-07 07:18:29,2026-10-07 10:59:34,2026-10-12 19:58:02,P4,Login,resolved,0,4,Account locked after too many attempts
+T0226,C024,A05,2026-10-07 08:09:47,2026-10-07 14:43:27,2026-10-11 02:21:03,P4,How-to,resolved,0,4,How to schedule a weekly email report
+T0227,C004,A02,2026-10-07 08:52:32,2026-10-07 13:42:37,2026-10-10 08:55:24,P3,Bug,resolved,0,2,Filters reset when I change page
+T0228,C037,A01,2026-10-07 08:59:30,2026-10-07 12:44:23,2026-10-08 22:53:53,P4,Performance,resolved,0,,Dashboard takes over 30 seconds to load
+T0229,C004,A02,2026-10-07 10:04:37,2026-10-07 12:46:14,2026-10-11 08:49:30,P3,Login,resolved,0,3,Two-factor code never arrives
+T0230,C014,A05,2026-10-07 10:58:59,2026-10-07 13:38:08,2026-10-09 05:37:06,P4,Billing,resolved,0,,Plan upgrade did not apply
+T0231,C007,A04,2026-10-07 11:29:29,2026-10-07 13:44:27,2026-10-09 03:10:20,P4,How-to,resolved,0,5,How do I share a report with a client?
+T0232,C016,A06,2026-10-07 14:17:24,2026-10-07 16:20:15,2026-10-09 00:12:39,P3,Performance,resolved,0,,Report export times out
+T0233,C035,A05,2026-10-07 14:49:07,2026-10-07 15:01:04,2026-10-07 22:29:38,P2,Bug,resolved,0,5,Export to PDF cuts off last column
+T0234,C011,A04,2026-10-07 15:12:19,2026-10-07 18:30:53,2026-10-09 13:43:30,P4,Bug,resolved,0,,Duplicate rows in weekly report
+T0235,C007,A02,2026-10-07 15:16:23,2026-10-07 16:34:27,2026-10-09 22:38:03,P4,How-to,resolved,0,4,How do I share a report with a client?
+T0236,C035,A06,2026-10-08 08:45:23,2026-10-08 12:07:12,2026-10-11 02:34:10,P4,How-to,resolved,0,,How do I share a report with a client?
+T0237,C033,A02,2026-10-08 09:00:31,2026-10-08 12:46:40,2026-10-10 06:18:01,P4,Performance,resolved,0,4,Dashboard takes over 30 seconds to load
+T0238,C014,A02,2026-10-08 10:31:57,2026-10-08 11:32:11,2026-10-08 23:03:30,P2,Billing,resolved,0,,Charged twice this month
+T0239,C011,A01,2026-10-08 11:46:09,2026-10-08 12:40:40,2026-10-11 07:43:30,P3,How-to,resolved,0,5,How do I add a teammate?
+T0240,C019,A01,2026-10-08 14:25:01,2026-10-08 16:02:26,2026-10-09 07:23:36,P3,Bug,resolved,0,4,Filters reset when I change page
+T0241,C018,A04,2026-10-08 15:17:56,2026-10-08 16:11:05,2026-10-09 18:49:22,P3,Login,resolved,0,3,Account locked after too many attempts
+T0242,C039,A01,2026-10-08 16:52:40,2026-10-08 18:25:18,2026-10-09 09:16:19,P2,Integration,resolved,0,4,Salesforce sync is missing records
+T0243,C020,A03,2026-10-08 17:28:25,2026-10-08 23:10:31,2026-10-09 05:58:12,P3,Bug,resolved,0,,Filters reset when I change page
+T0244,C011,A08,2026-10-09 07:20:48,2026-10-09 11:25:23,2026-10-16 11:18:57,P4,How-to,resolved,1,4,How do I share a report with a client?
+T0245,C035,A03,2026-10-09 08:23:59,2026-10-09 13:00:59,2026-10-10 19:15:45,P3,Bug,resolved,0,2,Export to PDF cuts off last column
+T0246,C020,A03,2026-10-09 08:53:21,2026-10-09 11:50:21,2026-10-11 15:58:42,P4,Performance,resolved,0,4,App is slow every morning
+T0247,C018,A02,2026-10-09 08:59:12,2026-10-09 12:39:14,2026-10-10 19:37:32,P3,Billing,resolved,0,,Charged twice this month
+T0248,C029,A01,2026-10-09 12:04:25,2026-10-09 12:33:14,2026-10-09 17:29:30,P2,Integration,resolved,0,5,API returns 401 with a valid token
+T0249,C002,A05,2026-10-09 12:24:20,2026-10-09 13:34:33,2026-10-12 00:28:14,P3,Bug,resolved,1,,Filters reset when I change page
+T0250,C039,A05,2026-10-09 12:53:25,2026-10-09 15:13:09,2026-10-11 03:15:00,P3,Billing,resolved,0,5,Plan upgrade did not apply
+T0251,C040,A04,2026-10-09 13:55:37,2026-10-09 17:07:12,2026-10-12 12:46:49,P4,Login,resolved,0,5,Two-factor code never arrives
+T0252,C002,A02,2026-10-09 18:00:57,2026-10-09 18:09:41,2026-10-09 22:04:49,P2,Performance,resolved,0,,Report export times out
+T0253,C032,A04,2026-10-09 18:18:16,2026-10-09 19:03:16,2026-10-10 06:17:51,P3,Bug,resolved,0,4,Chart shows wrong totals
+T0254,C011,A03,2026-10-10 13:06:03,2026-10-10 15:39:02,2026-10-16 14:50:29,P3,Login,resolved,0,4,SSO login loops back to sign-in page
+T0255,C003,A03,2026-10-10 13:40:59,2026-10-10 16:14:33,2026-10-11 04:52:34,P3,Bug,resolved,0,5,Filters reset when I change page
+T0256,C035,A01,2026-10-10 13:54:03,2026-10-10 15:02:03,2026-10-12 14:57:12,P2,Bug,resolved,0,4,Chart shows wrong totals
+T0257,C004,A03,2026-10-11 12:17:27,2026-10-11 16:28:21,2026-10-12 15:21:50,P3,Performance,resolved,0,4,Report export times out
+T0258,C014,A07,2026-10-11 17:20:12,2026-10-11 20:00:39,2026-10-13 05:10:07,P3,Login,resolved,0,,Cannot log in after password reset
+T0259,C018,A04,2026-10-12 07:51:48,2026-10-12 11:34:32,2026-10-14 19:11:02,P3,Login,resolved,0,3,Cannot log in after password reset
+T0260,C008,A04,2026-10-12 14:03:58,2026-10-12 14:39:55,2026-10-14 01:44:35,P3,How-to,resolved,0,5,Where can I change the date format?
+T0261,C013,A08,2026-10-12 15:35:13,2026-10-12 17:38:21,2026-10-14 10:12:29,P3,Bug,resolved,1,,Export to PDF cuts off last column
+T0262,C007,A05,2026-10-12 16:48:08,2026-10-13 00:25:03,2026-10-15 16:50:11,P3,How-to,resolved,0,2,How to schedule a weekly email report
+T0263,C002,A04,2026-10-12 17:25:58,2026-10-12 23:49:17,2026-10-14 13:10:04,P4,How-to,resolved,0,5,How do I share a report with a client?
+T0264,C026,A03,2026-10-12 17:55:18,2026-10-13 09:55:57,2026-10-14 12:47:54,P4,How-to,resolved,0,3,How to schedule a weekly email report
+T0265,C033,A01,2026-10-12 18:05:03,2026-10-12 20:44:02,2026-10-15 13:36:10,P3,Login,resolved,0,,Two-factor code never arrives
+T0266,C033,A01,2026-10-12 18:26:28,2026-10-13 11:11:55,2026-10-17 09:59:14,P4,Integration,resolved,0,5,Webhook deliveries are delayed
+T0267,C002,A03,2026-10-12 19:27:56,2026-10-12 21:38:46,2026-10-14 08:21:43,P3,Performance,resolved,0,,Report export times out
+T0268,C035,A01,2026-10-13 08:13:32,2026-10-13 10:29:41,2026-10-17 17:26:18,P3,Bug,resolved,0,3,Filters reset when I change page
+T0269,C017,A04,2026-10-13 09:10:30,2026-10-13 10:18:58,2026-10-18 17:10:43,P3,Integration,resolved,0,5,Salesforce sync is missing records
+T0270,C008,A06,2026-10-13 09:41:10,2026-10-13 12:09:00,2026-10-15 15:55:19,P3,Billing,resolved,0,5,Plan upgrade did not apply
+T0271,C014,A02,2026-10-13 10:28:58,2026-10-13 12:36:16,2026-10-15 10:16:22,P3,Performance,resolved,0,5,Dashboard takes over 30 seconds to load
+T0272,C030,A07,2026-10-13 11:16:47,2026-10-13 13:32:02,2026-10-15 10:37:43,P3,Integration,resolved,0,4,Slack integration stopped posting
+T0273,C002,A02,2026-10-13 11:30:35,2026-10-13 12:38:15,2026-10-15 09:35:09,P3,Login,resolved,0,,Two-factor code never arrives
+T0274,C011,A02,2026-10-13 13:21:18,2026-10-13 14:30:01,2026-10-15 17:37:12,P3,Billing,resolved,0,5,Need invoice with VAT number
+T0275,C002,A04,2026-10-13 13:41:15,2026-10-13 15:27:48,2026-10-14 20:45:49,P3,Integration,resolved,0,,Slack integration stopped posting
+T0276,C011,A07,2026-10-13 17:25:07,2026-10-13 17:43:35,2026-10-14 00:48:24,P2,Billing,resolved,0,3,Refund request for unused seats
+T0277,C020,A02,2026-10-13 18:41:16,2026-10-13 23:01:17,2026-10-15 08:40:34,P3,Billing,resolved,0,4,Refund request for unused seats
+T0278,C016,A01,2026-10-13 19:31:35,2026-10-13 19:50:10,2026-10-15 10:01:20,P2,Login,resolved,0,4,Account locked after too many attempts
+T0279,C031,A03,2026-10-14 09:16:08,2026-10-14 09:42:23,2026-10-15 22:07:35,P2,Login,resolved,0,3,SSO login fails with timeout
+T0280,C038,A01,2026-10-14 09:16:36,2026-10-14 10:46:50,2026-10-16 00:11:51,P2,Login,resolved,0,1,SSO login fails with timeout
+T0281,C021,A06,2026-10-14 09:24:26,2026-10-14 10:07:10,2026-10-15 13:23:32,P2,Login,resolved,0,3,SSO login fails with timeout
+T0282,C002,A06,2026-10-14 09:24:33,2026-10-14 10:42:50,2026-10-15 16:53:53,P2,Login,resolved,0,1,Whole team locked out since this morning
+T0283,C039,A08,2026-10-14 09:24:45,2026-10-14 14:18:52,2026-10-16 10:12:51,P2,Login,resolved,1,3,Cannot log in - error 503
+T0284,C030,A08,2026-10-14 09:26:15,2026-10-14 11:35:52,2026-10-14 22:02:45,P2,Login,resolved,1,,Whole team locked out since this morning
+T0285,C009,A06,2026-10-14 09:27:50,2026-10-14 09:47:19,,P1,Login,open,1,,SSO login fails with timeout
+T0286,C031,A08,2026-10-14 09:31:31,2026-10-14 10:34:06,2026-10-15 18:51:57,P2,Login,resolved,1,,Cannot log in - error 503
+T0287,C015,A07,2026-10-14 09:34:09,2026-10-14 09:48:21,2026-10-14 11:31:30,P1,Login,resolved,0,5,Login page shows 'service unavailable'
+T0288,C001,A02,2026-10-14 09:35:12,2026-10-14 13:45:24,2026-10-16 09:22:19,P3,How-to,resolved,0,,How to schedule a weekly email report
+T0289,C031,A08,2026-10-14 09:40:38,2026-10-14 10:14:12,2026-10-14 20:21:50,P2,Login,resolved,1,4,Whole team locked out since this morning
+T0290,C037,A01,2026-10-14 10:00:19,2026-10-14 11:37:44,2026-10-15 04:27:09,P2,Login,resolved,0,3,Login page shows 'service unavailable'
+T0291,C031,A06,2026-10-14 10:03:00,2026-10-14 10:51:33,2026-10-14 11:57:19,P1,Login,resolved,0,,Whole team locked out since this morning
+T0292,C005,A04,2026-10-14 10:04:30,2026-10-14 10:35:32,2026-10-15 00:19:32,P2,Login,resolved,0,,Whole team locked out since this morning
+T0293,C028,A07,2026-10-14 10:05:11,2026-10-14 10:30:19,2026-10-16 00:20:44,P3,How-to,resolved,0,3,Where can I change the date format?
+T0294,C029,A08,2026-10-14 10:13:56,2026-10-14 11:20:07,,P2,Login,open,1,,Whole team locked out since this morning
+T0295,C033,A01,2026-10-14 10:14:23,2026-10-14 10:49:14,2026-10-14 15:09:59,P2,Login,resolved,0,,Cannot log in - error 503
+T0296,C032,A08,2026-10-14 10:17:43,2026-10-14 10:29:21,,P1,Login,open,1,,Login page shows 'service unavailable'
+T0297,C035,A02,2026-10-14 10:19:10,2026-10-14 11:32:28,2026-10-15 03:05:02,P2,Login,resolved,0,2,Cannot log in - error 503
+T0298,C006,A08,2026-10-14 10:41:42,2026-10-14 10:58:13,2026-10-14 14:30:05,P1,Login,resolved,1,3,Login page shows 'service unavailable'
+T0299,C005,A05,2026-10-14 10:44:10,2026-10-14 11:40:04,2026-10-15 03:47:33,P2,Login,resolved,1,4,SSO login fails with timeout
+T0300,C016,A06,2026-10-14 10:50:20,2026-10-14 11:45:06,2026-10-15 13:13:52,P2,Login,resolved,1,,Whole team locked out since this morning
+T0301,C011,A01,2026-10-14 10:56:01,2026-10-14 11:13:24,2026-10-15 00:48:02,P2,Integration,resolved,0,,Slack integration stopped posting
+T0302,C036,A02,2026-10-14 11:09:18,2026-10-14 12:07:51,2026-10-15 08:49:56,P2,Login,resolved,0,4,Cannot log in - error 503
+T0303,C032,A07,2026-10-14 11:13:17,2026-10-14 11:26:48,2026-10-14 19:39:32,P1,Login,resolved,0,,Cannot log in - error 503
+T0304,C005,A03,2026-10-14 11:25:43,2026-10-14 12:40:14,2026-10-15 05:12:15,P2,Login,resolved,0,3,Whole team locked out since this morning
+T0305,C015,A06,2026-10-14 11:29:12,2026-10-14 12:24:54,2026-10-15 01:08:05,P2,Login,resolved,0,3,Whole team locked out since this morning
+T0306,C017,A04,2026-10-14 11:48:07,2026-10-14 13:26:45,2026-10-14 22:15:57,P2,Login,resolved,0,2,Cannot log in - error 503
+T0307,C030,A05,2026-10-14 11:48:46,2026-10-14 12:05:13,2026-10-14 23:25:07,P1,Login,resolved,1,,Cannot log in - error 503
+T0308,C030,A07,2026-10-14 11:51:36,2026-10-14 12:19:19,2026-10-14 18:47:39,P2,Performance,resolved,0,5,Report export times out
+T0309,C006,A06,2026-10-14 11:57:33,2026-10-14 13:21:24,2026-10-14 19:19:50,P2,Login,resolved,0,3,Login page shows 'service unavailable'
+T0310,C025,A07,2026-10-14 12:00:39,2026-10-14 12:12:14,,P1,Login,open,1,,SSO login fails with timeout
+T0311,C017,A03,2026-10-14 12:04:30,2026-10-14 13:17:26,2026-10-14 19:35:23,P2,Login,resolved,0,2,Cannot log in - error 503
+T0312,C007,A01,2026-10-14 12:15:23,2026-10-14 14:50:48,2026-10-20 00:27:42,P3,Login,resolved,0,3,Cannot log in after password reset
+T0313,C038,A01,2026-10-14 12:15:58,2026-10-14 12:40:54,2026-10-14 17:08:56,P1,Login,resolved,0,1,Login page shows 'service unavailable'
+T0314,C011,A05,2026-10-14 12:21:43,2026-10-14 13:29:40,2026-10-15 02:26:37,P2,Login,resolved,1,3,Whole team locked out since this morning
+T0315,C014,A03,2026-10-14 12:32:37,2026-10-14 16:02:32,2026-10-14 22:59:55,P2,Login,resolved,0,1,SSO login fails with timeout
+T0316,C024,A04,2026-10-14 12:35:05,2026-10-14 14:17:59,2026-10-15 07:18:17,P3,How-to,resolved,0,,How do I share a report with a client?
+T0317,C020,A03,2026-10-14 12:46:07,2026-10-14 13:05:28,2026-10-14 15:07:48,P1,Login,resolved,0,,SSO login fails with timeout
+T0318,C018,A03,2026-10-14 12:58:36,2026-10-14 13:16:28,2026-10-14 13:51:54,P1,Login,resolved,0,,Whole team locked out since this morning
+T0319,C013,A02,2026-10-14 13:00:07,2026-10-14 13:15:30,2026-10-14 23:33:19,P1,Login,resolved,0,1,Whole team locked out since this morning
+T0320,C019,A04,2026-10-14 13:06:25,2026-10-14 14:17:34,2026-10-15 01:54:40,P2,Login,resolved,0,,Login page shows 'service unavailable'
+T0321,C018,A06,2026-10-14 13:08:03,2026-10-14 13:12:56,2026-10-14 18:12:41,P1,Login,resolved,1,,Whole team locked out since this morning
+T0322,C035,A01,2026-10-14 13:26:47,2026-10-14 13:51:02,2026-10-14 21:17:30,P2,Bug,resolved,0,5,Filters reset when I change page
+T0323,C029,A08,2026-10-14 13:29:58,2026-10-14 13:37:41,2026-10-14 17:40:35,P1,Login,resolved,1,4,Whole team locked out since this morning
+T0324,C009,A06,2026-10-14 18:55:26,2026-10-15 00:32:42,2026-10-18 00:45:59,P4,How-to,resolved,0,5,How to schedule a weekly email report
+T0325,C017,A01,2026-10-14 19:28:27,2026-10-14 22:46:22,2026-10-18 12:18:13,P4,Performance,resolved,0,5,Dashboard takes over 30 seconds to load
+T0326,C022,A04,2026-10-15 07:08:02,2026-10-15 07:26:26,2026-10-16 00:53:38,P3,Performance,resolved,0,4,App is slow every morning
+T0327,C005,A05,2026-10-15 10:05:17,2026-10-15 11:03:26,2026-10-18 21:14:11,P4,Billing,resolved,0,5,Refund request for unused seats
+T0328,C020,A03,2026-10-15 10:24:17,2026-10-15 14:54:02,2026-10-16 09:58:18,P4,Billing,resolved,0,,Plan upgrade did not apply
+T0329,C024,A02,2026-10-15 10:24:25,2026-10-15 13:47:08,2026-10-18 10:50:52,P3,Bug,resolved,0,4,Chart shows wrong totals
+T0330,C017,A02,2026-10-15 11:54:52,2026-10-15 13:02:48,2026-10-16 20:01:54,P3,Integration,resolved,0,,Webhook deliveries are delayed
+T0331,C016,A02,2026-10-15 12:08:43,2026-10-15 13:08:04,2026-10-15 23:54:53,P2,How-to,resolved,0,4,How to schedule a weekly email report
+T0332,C008,A04,2026-10-15 12:48:03,2026-10-15 23:41:27,2026-10-26 05:15:35,P4,Billing,resolved,0,,Need invoice with VAT number
+T0333,C005,A03,2026-10-15 14:17:36,2026-10-15 16:47:01,2026-10-19 00:20:10,P3,Billing,resolved,0,4,Need invoice with VAT number
+T0334,C018,A05,2026-10-15 15:33:40,2026-10-15 16:34:28,2026-10-19 11:19:19,P4,Integration,resolved,0,4,Slack integration stopped posting
+T0335,C032,A03,2026-10-15 17:28:27,2026-10-15 17:32:37,2026-10-15 20:55:25,P1,Bug,resolved,0,,Export to PDF cuts off last column
+T0336,C007,A01,2026-10-15 19:55:54,2026-10-15 23:37:56,2026-10-17 10:31:49,P4,Performance,resolved,0,,Dashboard takes over 30 seconds to load
+T0337,C040,A04,2026-10-16 08:14:09,2026-10-16 12:53:03,2026-10-17 17:22:02,P4,Bug,resolved,0,,Filters reset when I change page
+T0338,C033,A02,2026-10-16 08:52:46,2026-10-16 11:09:49,2026-10-18 03:55:21,P4,Billing,resolved,0,,Refund request for unused seats
+T0339,C017,A03,2026-10-16 09:33:43,2026-10-16 11:37:55,2026-10-17 23:24:22,P3,Billing,resolved,0,5,Plan upgrade did not apply
+T0340,C035,A03,2026-10-16 13:59:59,2026-10-16 14:21:49,2026-10-16 20:52:06,P2,Integration,resolved,0,,Salesforce sync is missing records
+T0341,C019,A07,2026-10-16 14:00:04,2026-10-16 14:49:20,2026-10-19 13:49:23,P3,Performance,resolved,0,,Dashboard takes over 30 seconds to load
+T0342,C025,A04,2026-10-16 14:15:50,2026-10-16 16:12:37,2026-10-20 18:36:58,P3,Login,resolved,0,4,Two-factor code never arrives
+T0343,C005,A02,2026-10-16 15:54:29,2026-10-16 17:12:22,2026-10-18 03:40:22,P3,Performance,resolved,0,4,Dashboard takes over 30 seconds to load
+T0344,C025,A03,2026-10-16 18:41:54,2026-10-16 18:56:11,2026-10-17 10:31:21,P2,Bug,resolved,0,,Export to PDF cuts off last column
+T0345,C023,A01,2026-10-16 18:48:57,2026-10-16 19:26:10,2026-10-17 11:47:51,P2,Integration,resolved,0,4,API returns 401 with a valid token
+T0346,C022,A04,2026-10-16 19:30:37,2026-10-16 19:44:09,2026-10-17 00:51:31,P2,Integration,resolved,0,5,Salesforce sync is missing records
+T0347,C017,A01,2026-10-17 09:00:50,2026-10-17 12:37:37,2026-10-24 20:34:15,P4,How-to,resolved,0,5,How do I share a report with a client?
+T0348,C016,A04,2026-10-17 10:35:49,2026-10-17 14:10:12,2026-10-25 02:18:41,P4,How-to,resolved,0,4,How to schedule a weekly email report
+T0349,C032,A06,2026-10-17 11:14:36,2026-10-17 11:36:27,2026-10-17 18:11:17,P2,Billing,resolved,0,,Need invoice with VAT number
+T0350,C018,A02,2026-10-18 13:08:40,2026-10-18 14:05:43,2026-10-19 01:50:44,P2,Login,resolved,0,3,Account locked after too many attempts
+T0351,C017,A05,2026-10-18 13:33:40,2026-10-18 14:03:51,2026-10-19 05:06:16,P2,Login,resolved,1,,Account locked after too many attempts
+T0352,C014,A01,2026-10-19 07:34:19,2026-10-19 08:55:49,2026-10-24 07:13:53,P4,Bug,resolved,0,4,Chart shows wrong totals
+T0353,C018,A03,2026-10-19 08:04:19,2026-10-19 14:35:25,2026-10-26 14:53:02,P4,Login,resolved,0,,Account locked after too many attempts
+T0354,C022,A05,2026-10-19 10:30:33,2026-10-19 11:24:03,2026-10-21 10:27:27,P3,How-to,resolved,0,,How to schedule a weekly email report
+T0355,C035,A01,2026-10-19 10:35:15,2026-10-19 11:06:43,2026-10-23 08:49:32,P3,Billing,resolved,0,4,Refund request for unused seats
+T0356,C032,A08,2026-10-19 13:16:14,2026-10-19 15:54:57,,P3,Performance,open,1,,Dashboard takes over 30 seconds to load
+T0357,C032,A05,2026-10-19 14:17:20,2026-10-19 15:42:57,2026-10-20 20:59:44,P3,Bug,resolved,0,5,Chart shows wrong totals
+T0358,C033,A01,2026-10-19 15:37:12,2026-10-19 16:30:32,2026-10-20 17:17:49,P3,How-to,resolved,0,,How do I add a teammate?
+T0359,C020,A02,2026-10-19 17:53:56,2026-10-19 18:41:16,2026-10-19 23:12:25,P2,Billing,resolved,0,,Plan upgrade did not apply
+T0360,C038,A04,2026-10-19 18:48:07,2026-10-19 20:43:09,2026-10-23 16:54:39,P4,Billing,resolved,0,5,Need invoice with VAT number
+T0361,C029,A04,2026-10-19 19:38:00,2026-10-19 20:16:44,2026-10-21 13:28:36,P3,Login,resolved,0,4,Cannot log in after password reset
+T0362,C028,A03,2026-10-20 08:16:14,2026-10-20 16:40:05,2026-10-22 14:48:24,P4,How-to,resolved,0,,How do I add a teammate?
+T0363,C019,A02,2026-10-20 10:31:56,2026-10-20 11:14:47,2026-10-22 00:34:39,P3,How-to,resolved,0,,How do I share a report with a client?
+T0364,C025,A03,2026-10-20 11:03:01,2026-10-20 11:23:22,2026-10-21 00:40:48,P2,Billing,resolved,0,,Need invoice with VAT number
+T0365,C013,A01,2026-10-20 12:14:31,2026-10-20 13:14:12,2026-10-21 00:35:07,P2,Login,resolved,0,,Cannot log in after password reset
+T0366,C011,A01,2026-10-20 13:45:41,2026-10-20 14:08:07,2026-10-21 05:57:18,P2,Billing,resolved,0,5,Charged twice this month
+T0367,C040,A08,2026-10-20 17:27:59,2026-10-20 18:13:26,,P2,Integration,pending,1,,Slack integration stopped posting
+T0368,C018,A03,2026-10-20 17:41:26,2026-10-20 18:21:05,2026-10-22 00:11:29,P2,Performance,resolved,0,3,Dashboard takes over 30 seconds to load
+T0369,C016,A07,2026-10-21 13:12:00,2026-10-21 16:53:05,2026-10-22 22:22:02,P3,Login,resolved,0,5,Two-factor code never arrives
+T0370,C005,A04,2026-10-21 13:23:43,2026-10-21 16:24:36,2026-10-25 00:27:40,P4,How-to,resolved,0,,How to schedule a weekly email report
+T0371,C025,A02,2026-10-21 14:12:19,2026-10-21 17:13:12,2026-10-26 08:16:05,P4,Billing,resolved,0,,Need invoice with VAT number
+T0372,C022,A05,2026-10-21 15:04:13,2026-10-21 16:31:46,2026-10-23 02:57:07,P3,Billing,resolved,0,,Refund request for unused seats
+T0373,C033,A01,2026-10-21 18:21:45,2026-10-21 23:26:44,2026-10-23 13:43:35,P3,Bug,resolved,0,3,Filters reset when I change page
+T0374,C005,A03,2026-10-21 19:18:47,2026-10-22 04:48:37,2026-10-22 17:58:45,P4,How-to,resolved,0,3,How do I add a teammate?
+T0375,C035,A03,2026-10-21 19:52:12,2026-10-21 20:44:08,2026-10-23 04:33:28,P3,How-to,resolved,0,5,How do I share a report with a client?
+T0376,C017,A03,2026-10-22 07:13:01,2026-10-22 09:36:22,2026-10-26 05:33:51,P4,Integration,resolved,0,,Slack integration stopped posting
+T0377,C021,A02,2026-10-22 08:39:31,2026-10-22 09:55:14,2026-10-29 12:14:27,P4,How-to,resolved,0,,How do I share a report with a client?
+T0378,C011,A03,2026-10-22 09:59:25,2026-10-22 10:48:43,2026-10-23 05:36:18,P2,Performance,resolved,0,5,App is slow every morning
+T0379,C018,A01,2026-10-22 10:31:26,2026-10-22 12:31:58,2026-10-27 14:29:54,P4,How-to,resolved,0,4,Where can I change the date format?
+T0380,C037,A05,2026-10-22 14:14:16,2026-10-22 15:48:19,2026-10-23 13:00:58,P2,Bug,resolved,0,,Chart shows wrong totals
+T0381,C011,A04,2026-10-22 16:11:57,2026-10-22 23:05:38,2026-10-23 12:57:53,P4,Login,resolved,0,,Two-factor code never arrives
+T0382,C033,A01,2026-10-22 17:03:38,2026-10-22 19:34:17,2026-10-24 17:36:05,P3,Bug,resolved,0,,Filters reset when I change page
+T0383,C006,A06,2026-10-22 19:56:18,2026-10-22 23:06:29,2026-10-28 14:43:50,P4,How-to,resolved,0,,Where can I change the date format?
+T0384,C007,A04,2026-10-23 07:19:42,2026-10-23 10:33:34,2026-10-24 01:46:23,P3,Login,resolved,0,5,Cannot log in after password reset
+T0385,C017,A03,2026-10-23 09:21:12,2026-10-23 15:28:15,2026-10-25 05:53:56,P3,Billing,resolved,0,3,Refund request for unused seats
+T0386,C018,A04,2026-10-23 09:26:03,2026-10-23 09:40:06,2026-10-23 14:55:29,P2,Bug,resolved,0,5,Duplicate rows in weekly report
+T0387,C020,A06,2026-10-23 09:41:59,2026-10-23 14:15:09,2026-10-25 18:13:11,P3,How-to,resolved,0,,How do I add a teammate?
+T0388,C014,A06,2026-10-23 12:21:28,2026-10-23 15:54:16,2026-10-25 15:34:41,P3,Bug,resolved,0,,Duplicate rows in weekly report
+T0389,C034,A01,2026-10-23 13:28:57,2026-10-23 17:21:48,2026-10-26 05:42:41,P4,Performance,resolved,0,4,Dashboard takes over 30 seconds to load
+T0390,C032,A04,2026-10-23 15:47:29,2026-10-23 17:02:36,2026-10-24 17:42:59,P3,How-to,resolved,0,5,How to schedule a weekly email report
+T0391,C005,A04,2026-10-23 18:03:11,2026-10-23 21:17:23,2026-10-25 18:09:59,P3,Login,resolved,0,2,Account locked after too many attempts
+T0392,C029,A04,2026-10-23 18:07:05,2026-10-23 22:00:54,2026-10-24 13:41:18,P3,Login,resolved,0,,SSO login loops back to sign-in page
+T0393,C018,A03,2026-10-23 18:24:53,2026-10-23 20:33:00,2026-10-24 22:02:50,P3,Bug,resolved,0,5,Chart shows wrong totals
+T0394,C007,A02,2026-10-23 18:56:20,2026-10-23 19:34:46,2026-10-25 19:01:32,P3,Performance,resolved,0,5,Dashboard takes over 30 seconds to load
+T0395,C038,A03,2026-10-24 10:00:05,2026-10-24 15:51:11,2026-10-26 12:14:04,P4,Integration,resolved,0,5,Salesforce sync is missing records
+T0396,C025,A02,2026-10-24 13:05:22,2026-10-24 15:00:21,2026-10-25 21:12:30,P3,Login,resolved,0,4,SSO login loops back to sign-in page
+T0397,C030,A04,2026-10-25 10:35:48,2026-10-25 16:36:48,2026-10-29 05:48:11,P4,Bug,resolved,0,4,Duplicate rows in weekly report
+T0398,C031,A03,2026-10-25 12:24:22,2026-10-25 23:37:53,2026-10-30 18:00:07,P4,Bug,resolved,0,,Duplicate rows in weekly report
+T0399,C030,A07,2026-10-25 13:52:51,2026-10-25 15:18:15,2026-10-29 15:40:05,P3,Bug,resolved,1,,Export to PDF cuts off last column
+T0400,C022,A04,2026-10-26 07:40:26,2026-10-26 10:00:17,2026-11-01 02:15:43,P4,Billing,resolved,0,,Charged twice this month
+T0401,C013,A07,2026-10-26 08:03:45,2026-10-26 11:27:48,2026-10-27 20:38:30,P4,How-to,resolved,0,5,Where can I change the date format?
+T0402,C013,A03,2026-10-26 08:51:58,2026-10-26 09:15:41,2026-10-26 20:56:37,P2,Billing,resolved,0,5,Plan upgrade did not apply
+T0403,C031,A01,2026-10-26 10:20:23,2026-10-26 12:49:23,2026-10-27 18:08:10,P3,How-to,resolved,0,5,Where can I change the date format?
+T0404,C009,A04,2026-10-26 10:51:40,2026-10-26 11:26:59,2026-10-27 03:26:40,P2,Bug,resolved,0,5,Duplicate rows in weekly report
+T0405,C029,A08,2026-10-26 13:02:29,2026-10-26 13:25:45,,P2,Login,open,1,,Cannot log in after password reset
+T0406,C022,A02,2026-10-26 14:12:23,2026-10-26 14:30:34,2026-10-27 18:55:57,P2,Performance,resolved,0,2,Report export times out
+T0407,C028,A04,2026-10-26 15:58:28,2026-10-26 23:09:22,,P4,Bug,open,0,,Export to PDF cuts off last column
+T0408,C030,A02,2026-10-26 18:57:30,2026-10-27 02:51:38,2026-10-28 15:38:56,P4,Login,resolved,0,4,Account locked after too many attempts
+T0409,C004,A07,2026-10-26 19:25:02,2026-10-26 20:46:27,2026-10-30 04:32:51,P4,How-to,resolved,0,,How do I add a teammate?
+T0410,C018,A02,2026-10-27 08:57:38,2026-10-27 15:34:38,2026-10-30 14:01:43,P4,Bug,resolved,0,,Filters reset when I change page
+T0411,C010,A07,2026-10-27 11:12:47,2026-10-27 14:33:49,2026-10-29 23:11:39,P4,Billing,resolved,0,,Plan upgrade did not apply
+T0412,C029,A04,2026-10-27 11:19:00,2026-10-27 13:33:38,2026-10-30 05:52:21,P3,Login,resolved,0,5,Account locked after too many attempts
+T0413,C036,A06,2026-10-27 11:47:45,2026-10-27 12:37:54,2026-10-28 01:18:09,P2,Performance,resolved,1,5,App is slow every morning
+T0414,C017,A02,2026-10-27 12:23:17,2026-10-28 01:41:40,2026-11-01 04:37:06,P4,Login,resolved,0,3,Account locked after too many attempts
+T0415,C019,A02,2026-10-27 12:39:02,2026-10-27 13:59:18,2026-10-31 02:50:32,P3,Login,resolved,0,,SSO login loops back to sign-in page
+T0416,C025,A05,2026-10-27 18:20:59,2026-10-27 22:01:21,2026-10-29 01:45:28,P4,How-to,resolved,0,4,How do I add a teammate?
+T0417,C015,A02,2026-10-28 07:52:14,2026-10-28 08:48:33,2026-10-29 19:46:39,P3,Performance,resolved,0,4,Report export times out
+T0418,C002,A04,2026-10-28 08:30:45,2026-10-28 18:47:40,2026-10-29 11:32:31,P4,Integration,resolved,0,4,API returns 401 with a valid token
+T0419,C006,A01,2026-10-28 09:00:51,2026-10-28 11:25:23,2026-10-30 23:35:45,P4,Billing,resolved,0,3,Plan upgrade did not apply
+T0420,C037,A03,2026-10-28 09:59:31,2026-10-28 12:51:47,,P3,How-to,pending,0,,How do I share a report with a client?
+T0421,C032,A02,2026-10-28 13:52:31,2026-10-28 17:04:48,2026-10-31 02:27:31,P4,Billing,resolved,0,4,Plan upgrade did not apply
+T0422,C011,A02,2026-10-28 14:49:24,2026-10-28 15:36:28,2026-10-29 08:18:23,P3,Bug,resolved,0,5,Export to PDF cuts off last column
+T0423,C033,A02,2026-10-28 16:15:20,2026-10-28 17:23:17,2026-10-29 16:57:47,P2,Integration,resolved,0,2,API returns 401 with a valid token
+T0424,C007,A03,2026-10-28 18:19:52,2026-10-28 19:59:04,,P3,Integration,pending,0,,Webhook deliveries are delayed
+T0425,C030,A01,2026-10-28 18:49:09,2026-10-28 23:34:07,2026-10-30 15:15:29,P4,Billing,resolved,0,,Charged twice this month
+T0426,C025,A06,2026-10-28 19:16:58,2026-10-28 19:26:56,2026-10-28 19:54:05,P1,Login,resolved,0,,SSO login loops back to sign-in page
+T0427,C015,A03,2026-10-28 19:40:04,2026-10-28 21:39:03,,P4,Login,open,0,,Two-factor code never arrives
+T0428,C024,A02,2026-10-29 07:30:35,2026-10-29 12:46:00,2026-10-30 19:02:04,P4,Billing,resolved,0,,Charged twice this month
+T0429,C020,A04,2026-10-29 08:16:39,2026-10-29 10:36:15,2026-10-30 13:30:51,P3,Billing,resolved,0,5,Charged twice this month
+T0430,C002,A03,2026-10-29 13:04:41,2026-10-29 13:12:32,2026-10-30 02:23:31,P2,Performance,resolved,0,5,App is slow every morning
+T0431,C007,A04,2026-10-29 13:56:06,2026-10-29 14:09:52,2026-10-29 22:16:09,P2,Performance,resolved,0,,Report export times out
+T0432,C030,A05,2026-10-29 14:23:50,2026-10-29 19:39:09,,P4,Bug,pending,0,,Chart shows wrong totals
+T0433,C037,A02,2026-10-29 15:12:25,2026-10-29 20:20:34,,P4,Bug,open,0,,Filters reset when I change page
+T0434,C018,A03,2026-10-29 15:20:10,2026-10-29 17:22:07,2026-10-30 23:08:57,P3,How-to,resolved,0,4,Where can I change the date format?
+T0435,C035,A02,2026-10-29 19:10:15,2026-10-29 22:01:56,2026-10-31 07:42:07,P3,How-to,resolved,0,5,How do I share a report with a client?
+T0436,C005,A06,2026-10-29 19:38:05,2026-10-29 20:54:17,,P2,Integration,open,1,,Salesforce sync is missing records
+T0437,C030,A02,2026-10-30 09:14:08,2026-10-30 10:16:33,2026-10-31 17:04:05,P3,Integration,resolved,0,4,Salesforce sync is missing records
+T0438,C032,A04,2026-10-30 10:06:26,2026-10-30 13:48:36,,P4,Performance,pending,0,,App is slow every morning
+T0439,C007,A01,2026-10-30 13:29:39,2026-10-30 15:22:20,2026-11-01 09:55:18,P3,Performance,resolved,0,4,Report export times out
+T0440,C033,A04,2026-10-30 14:45:28,2026-10-30 16:45:50,2026-11-01 01:28:54,P3,Integration,resolved,0,,API returns 401 with a valid token
+T0441,C010,A04,2026-10-30 15:54:49,2026-10-30 17:32:32,2026-10-31 05:47:51,P3,Billing,resolved,0,4,Plan upgrade did not apply
+T0442,C029,A01,2026-10-30 17:15:47,2026-10-30 18:41:33,,P3,Bug,open,0,,Filters reset when I change page
+T0443,C034,A03,2026-10-30 17:48:07,2026-10-30 19:54:03,,P3,Billing,pending,0,,Charged twice this month
+T0444,C015,A01,2026-10-31 13:12:28,2026-10-31 13:53:09,,P2,Performance,open,0,,Dashboard takes over 30 seconds to load
+T0445,C040,A07,2026-10-31 13:17:36,2026-10-31 17:52:04,,P4,Bug,open,0,,Filters reset when I change page
+T0446,C035,A03,2026-10-31 13:23:16,2026-10-31 16:06:31,,P4,Billing,pending,0,,Charged twice this month
+T0447,C011,A03,2026-11-01 11:15:15,2026-11-01 14:14:35,2026-11-02 05:59:17,P4,Login,resolved,0,,Account locked after too many attempts
+T0448,C026,A03,2026-11-01 11:18:56,,,P3,How-to,open,0,,How to schedule a weekly email report
